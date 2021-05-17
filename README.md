@@ -6,9 +6,9 @@ Imgar is a self hosted image hosting script for Node.js using Express. Currently
 
 ### Installing
 1. Make sure Node.js and git are installed.
-2. Run `git clone https://github.com/ripbandit/Imgar.git`
+2. Run `git clone https://github.com/Mitchdev/Imgar.git`
 3. Run `npm install`
-4. Create a `user.htaccess` file in the format of:
+4. Create a `user.htpasswd` file in the format of:
 ```
 username:password
 ```
